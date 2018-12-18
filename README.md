@@ -1,2 +1,0 @@
-# BOOTCAMP-CHALLENGES
-UI templates
